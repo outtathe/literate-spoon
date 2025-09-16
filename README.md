@@ -1,5 +1,21 @@
 # literate-spoon
 
-что угодно
+## Лабораторная номер 1
 
-что угодно номер 2
+Задание 1
+
+```python
+print("hello world")
+```
+
+![Задание номер 1](./images/lab01/01.png)
+
+
+Задание 2
+
+```python
+for i in range(10):
+    print("hello world")
+```
+![Задание номер 1](./images/lab01/02.png)
+
